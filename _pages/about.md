@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PostDoc at the <a href='https://www.unil.ch/dee/en/home/menuinst/research/research-groups/kawecki-group.html'>Department of Ecology and Evolution at the University of Lausanne</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p> samuelcharberet@gmail.com </p>
     <p>Biophore</p>
     <p>Lausanne, 1005, Switzerland</p>
 
