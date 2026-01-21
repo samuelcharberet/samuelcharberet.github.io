@@ -1,81 +1,15 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
+title: Evolution in poor food conditions: intake rate
+description: will <i>Drosophila</i> larvae evolve intake rate that match their food environment ?
+img: 
+importance: 1
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Food of an organism seems to relate to a lot of their traits. Herbivores are sometimes very large and eat a lot. Frugivore apes have body plans that allow climbing trees, and sharks have big teeth. But observing the evolution of such traits in real time is very hard. This is because evolution takes time and requires one of the evolutive force (selection, drift, migration, mutation) to push the traits of the organism away from the starting place. We are using <i>Drosophila melanogaster</i> to study such processes. By putting some populations in poor food conditions, we expect some traits to become adapted to the new conditions, and by keeping also some populations in "standard" conditions, this gives us the opportunity to test our prédictions against control "non Evolved" flies.
+\\
+\\
+When food is poor, growing fast enough to participate to the next generation's gene pool will require adaptations. You can eat more food every day in the hope of growing more. Or you can try to optimise your digestion and gut assimilation. Also, you can try minimising your movements to keep energy for growth. I am currently trying to quantify intake rate in <i>Drosophila</i> larvae in order to test this first prediction. This is not easy because <i>Drosophila</i> larvae live <br>inside</br> of their own food (think of the last time you ate a cherry containing a maggot). This means that we can not give the larvae some food and come back later to see what is left, because they will have got inside the food (and also pooped inside). So we are using coloured food and a spectrophotometer to quantify intake at short time scale. This is rarely done (people use bite count more often), either because it is annoying or because it is not interesting to people working on Drosophila. We are also measuring growth rate in parallel to intake rate to try to see how intake and growth are related.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

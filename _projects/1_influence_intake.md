@@ -2,7 +2,7 @@
 layout: page
 title: Food availability and elemental budgets
 description: Influence of intake rate on element-wise mass budgets in <i>Spodoptera littoralis</i>.
-img: assets/img/4.jpg
+img:
 importance: 1
 category: work
 related_publications: true
