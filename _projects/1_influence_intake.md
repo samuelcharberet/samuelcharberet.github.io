@@ -15,3 +15,25 @@ The efficiency of assimilation, <i>i.e</i> the proportion of nutrients that does
 \\
 \\
 An interesting feature of the effect of intake on mass budgets is when we consider growth efficiency. This variable measures the proportion of food ingested that ends up being new body tissue. The growth efficiency peaked at intermediate value of both intake rate and growth rate. This is interesting because it suggests that growth efficiency and growth rate can not be maximised simultaneously. There is a rich literature on the tradeoff between rate and yield, or between power and efficiency which this is linked to. This whole project started my interests in the connection between rate and yield, which I know think is a fundamental constraint to the dynamics of living system. The preprint for this project is
+\\
+---
+layout: post
+title: a post with bibliography
+date: 2023-07-12 09:56:00-0400
+description: an example of a blog post with bibliography
+tags: formatting bib
+categories: sample-posts
+giscus_comments: true
+related_posts: false
+related_publications: true
+---
+That means simple citation like {% cite nisbet_2000 %}, multiple citations like {% cite nisbet_2000 kooijman_2009 %}, long references like {% reference nisbet_2000 %} or also quotes:
+
+{% quote nisbet_2000 %}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+sed do eiusmod tempor.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing.
+{% endquote %}
+
+If you would like something more academic, check the [distill style post]({% post_url 2018-12-22-distill %}).
