@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PostDoc at the <a href='https://www.unil.ch/dee/en/home/menuinst/research/research-groups/kawecki-group.html'>Department of Ecology and Evolution at the University of Lausanne</a>. 
 
