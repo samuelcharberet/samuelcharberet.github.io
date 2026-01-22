@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evolution in poor food conditions: intake rate
+title: Evolution in poor food conditions intake rate
 description: will <i>Drosophila</i> larvae evolve intake rate that match their food environment ?
 img:
 importance: 1
