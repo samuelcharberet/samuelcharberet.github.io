@@ -21,10 +21,7 @@
       "startDate": "2024-01",
       "summary": "Postdoctoral research in experimental evolutionary biology. I investigate the effect of poor food conditions on the evolution of intake rate, matabolic rate, and amino acid metabolism",
       "location": "Lausanne, Switzerland",
-      "keywords": [
-        "Experimental evolution",
-        "Evolutionary biology"
-      ]
+      "keywords": ["Experimental evolution", "Evolutionary biology"]
     }
   ],
 
@@ -74,13 +71,7 @@
     },
     {
       "name": "Biology",
-      "keywords": [
-        "Animal physiology",
-        "Anatomy",
-        "Ecological stoichiometry",
-        "Experimental ecology",
-        "Evolutionary biology"
-      ]
+      "keywords": ["Animal physiology", "Anatomy", "Ecological stoichiometry", "Experimental ecology", "Evolutionary biology"]
     }
   ],
 
