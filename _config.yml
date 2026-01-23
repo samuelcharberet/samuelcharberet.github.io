@@ -308,7 +308,7 @@ display_categories: # these categories will be displayed on the front page of yo
 
 scholar:
   last_name: [Charberet]
-  first_name: [Samuel, M.]
+  first_name: [Samuel]
 
   style: apa
   locale: en
