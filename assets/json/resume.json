@@ -13,7 +13,7 @@
     "profiles": []
   },
 
-  "Experience": [
+  "work": [
     {
       "name": "University of Lausanne",
       "department": "Department of Ecology and Evolution, Kawecki Group",
@@ -25,22 +25,22 @@
     }
   ],
 
-  "Education": [
+  "education": [
     {
       "institution": "Sorbonne University",
       "studyType": "PhD",
       "area": "Ecology",
       "startDate": "2020",
       "endDate": "2023",
-      "summary": "Impact of terrestrial animals on nutrient recycling"
+      "courses": "Impact of terrestrial animals on nutrient recycling"
     },
     {
       "institution": "University of Strasbourg",
       "studyType": "Master",
-      "area": "Physics – Cellular Physics",
+      "area": "Physics Cellular Physics",
       "startDate": "2019",
       "endDate": "2020",
-      "summary": "A dynamic model for H<sub>2</sub>O<sub>2</sub> perception in <i>Caenorhabditis elegans</i> and the role of peroxiredoxin-2 in I2 neurons."
+      "courses": "A dynamic model for H<sub>2</sub>O<sub>2</sub> perception in <i>Caenorhabditis elegans</i> and the role of peroxiredoxin-2 in I2 neurons."
     },
     {
       "institution": "Muséum national d’Histoire naturelle (Paris)",
@@ -48,7 +48,10 @@
       "area": "Ecology, Biodiversity, Evolution",
       "startDate": "2017",
       "endDate": "2019",
-      "summary": "Quantification of the flight of <i>Morpho butterflies</i> in nature vs. captivity: a glimpse in the coevolution of wing shape and flight behavior. Algorithms for behavioural geolocation: monitoring juvenile king penguins equipped with internal loggers."
+      "courses": [
+        "Quantification of the flight of <i>Morpho butterflies</i> in nature vs. captivity: a glimpse in the coevolution of wing shape and flight behavior",
+        "Algorithms for behavioural geolocation: monitoring juvenile king penguins equipped with internal loggers."
+      ]
     },
     {
       "institution": "University of Montreal",
@@ -56,7 +59,7 @@
       "area": "Biological Sciences",
       "startDate": "2016",
       "endDate": "2017",
-      "summary": "Diversity of Brachycera in maple groves of southern Canada."
+      "courses": "Diversity of Brachycera in maple groves of southern Canada."
     },
     {
       "institution": "University of Strasbourg",
@@ -67,7 +70,7 @@
     }
   ],
 
-  "Skills": [
+  "skills": [
     {
       "name": "Programming",
       "keywords": ["R", "Python", "Matlab", "LaTeX", "Julia (basics)"]
@@ -78,7 +81,7 @@
     }
   ],
 
-  "Languages": [
+  "languages": [
     {
       "language": "French",
       "fluency": "Native"
