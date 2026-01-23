@@ -13,7 +13,7 @@
     "profiles": []
   },
 
-  "work": [
+  "Experience": [
     {
       "name": "University of Lausanne",
       "department": "Department of Ecology and Evolution, Kawecki Group",
@@ -25,35 +25,39 @@
     }
   ],
 
-  "education": [
+  "Education": [
     {
       "institution": "Sorbonne University",
       "studyType": "PhD",
       "area": "Ecology",
       "startDate": "2020",
       "endDate": "2023",
-      "summary": "Impact of terrestrial animals on nutrient recycling. Training in animal physiology, anatomy, ecological stoichiometry, and chemistry."
+      "summary": "Impact of terrestrial animals on nutrient recycling"
     },
     {
       "institution": "University of Strasbourg",
       "studyType": "Master",
       "area": "Physics – Cellular Physics",
       "startDate": "2019",
-      "endDate": "2020"
+      "endDate": "2020",
+      "summary": "A dynamic model for H<sub>2</sub>O<sub>2</sub> perception in <i>Caenorhabditis elegans</i> and the role of peroxiredoxin-2 in I2 neurons."
     },
     {
       "institution": "Muséum national d’Histoire naturelle (Paris)",
       "studyType": "Master",
       "area": "Ecology, Biodiversity, Evolution",
       "startDate": "2017",
-      "endDate": "2019"
+      "endDate": "2019",
+      "summary": "Quantification of the flight of <i>Morpho butterflies</i> in nature vs. captivity: a glimpse in the coevolution of wing shape and flight behavior. Algorithms for behavioural geolocation: monitoring juvenile king penguins equipped with internal loggers."
+
     },
     {
       "institution": "University of Montreal",
-      "studyType": "Bachelor exchange year",
+      "studyType": "Bachelor",
       "area": "Biological Sciences",
       "startDate": "2016",
-      "endDate": "2017"
+      "endDate": "2017",      
+      "summary": "Diversity of Brachycera in maple groves of southern Canada."
     },
     {
       "institution": "University of Strasbourg",
@@ -64,7 +68,7 @@
     }
   ],
 
-  "skills": [
+  "Skills": [
     {
       "name": "Programming",
       "keywords": ["R", "Python", "Matlab", "LaTeX", "Julia (basics)"]
@@ -75,7 +79,7 @@
     }
   ],
 
-  "languages": [
+  "Languages": [
     {
       "language": "French",
       "fluency": "Native"
@@ -83,33 +87,6 @@
     {
       "language": "English",
       "fluency": "Fluent"
-    }
-  ],
-
-  "research": [
-    {
-      "institution": "Institute of Genetics and Molecular and Cellular Biology (UMR 7104)",
-      "startDate": "2020-02",
-      "endDate": "2020-06",
-      "summary": "Research internship on H2O2 perception in Caenorhabditis elegans and the role of peroxiredoxin-2 in I2 neurons."
-    },
-    {
-      "institution": "Hubert Curien Pluridisciplinary Institute (UMR 7178)",
-      "startDate": "2019-02",
-      "endDate": "2019-06",
-      "summary": "Monitoring juvenile king penguins equipped with internal loggers."
-    },
-    {
-      "institution": "Institute of Systematics, Evolution and Biodiversity (UMR 7205)",
-      "startDate": "2018-02",
-      "endDate": "2018-05",
-      "summary": "Quantification of Morpho butterfly flight in nature vs captivity to study coevolution of wing shape and flight behavior."
-    },
-    {
-      "institution": "Centre for Biodiversity Science, University of Montreal",
-      "startDate": "2017-01",
-      "endDate": "2017-04",
-      "summary": "Study of brachyceran fly diversity in maple forests of southern Canada."
     }
   ]
 }
