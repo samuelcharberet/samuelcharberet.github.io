@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: W.i.🦕.
+title: Wi🦕 ?
 nav: true
 nav_order: 1
 pagination:
