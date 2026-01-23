@@ -6,6 +6,7 @@ img:
 importance: 1
 category: work
 giscus_comments: true
+related_publications: true
 ---
 
 The food of an organism appears to be related to many of its traits. Herbivores are sometimes very large and eat a lot. Frugivore apes have body plans that allow climbing trees, and sharks have big teeth. But observing the evolution of such traits in real time is very hard. This is because evolution takes time and requires one of the evolutive force (selection, drift, migration, mutation) to push the traits of the organism away from the starting place. We are using <i>Drosophila melanogaster</i> to study such processes. By putting some populations in poor food conditions, we expect some traits to become adapted to the new conditions, and by keeping also some populations in "standard" conditions, this gives us the opportunity to test our predictions against control "non Evolved" flies.
