@@ -69,6 +69,13 @@
       "endDate": "2016"
     }
   ],
+    "volunteer": [{
+    "organization": "Biopôle Postgraduate Consulting Group",
+    "position": "Scientific evaluator",
+    "url": "https://www.biopole.ch/biopole/biopole-careers/postgrad-consulting-programme/",
+    "startDate": "2025-06-01",
+    "endDate": "2025-09-01"
+  }],
 
   "skills": [
     {
