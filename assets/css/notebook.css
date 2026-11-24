@@ -1,0 +1,27 @@
+/* Notebook: index page + animation widgets */
+.nb-filters { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.5rem 0 0.25rem; }
+.nb-filters + .nb-filters { margin-bottom: 1.5rem; }
+.nb-chip {
+  border: 1px solid var(--global-divider-color); background: transparent; color: var(--global-text-color);
+  border-radius: 999px; padding: 0.15rem 0.7rem; font-size: 0.85rem; cursor: pointer;
+}
+.nb-chip:hover { border-color: var(--global-theme-color); }
+.nb-chip.nb-on { background: var(--global-theme-color); border-color: var(--global-theme-color); color: var(--global-bg-color); }
+.nb-year { margin-top: 1.5rem; font-size: 1.1rem; color: var(--global-text-color-light); }
+.nb-list { list-style: none; padding: 0; margin: 0; }
+.nb-item { display: flex; gap: 0.9rem; padding: 0.7rem 0; border-bottom: 1px solid var(--global-divider-color); }
+.nb-item .nb-icon { width: 1.4rem; text-align: center; color: var(--global-theme-color); padding-top: 0.2rem; }
+.nb-item h3 { font-size: 1.05rem; margin: 0; }
+.nb-item h3 a { color: var(--global-text-color); }
+.nb-item h3 a:hover { color: var(--global-theme-color); }
+.nb-item p { margin: 0.15rem 0 0; font-size: 0.9rem; color: var(--global-text-color-light); }
+.nb-meta { font-size: 0.8rem; color: var(--global-text-color-light); }
+.nb-empty { color: var(--global-text-color-light); font-style: italic; }
+
+.nb-widget { margin: 1.5rem 0; padding: 0.75rem; border: 1px solid var(--global-divider-color); border-radius: 8px; }
+.nb-widget canvas { display: block; width: 100%; }
+.nb-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1.2rem; margin-top: 0.6rem; font-size: 0.9rem; }
+.nb-controls input[type="range"] { accent-color: var(--global-theme-color); vertical-align: middle; }
+.nb-readout { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; margin-top: 0.5rem; font-size: 0.85rem; color: var(--global-text-color-light); font-variant-numeric: tabular-nums; }
+.nb-readout b { color: var(--global-text-color); font-weight: 600; }
+.nb-caption { font-size: 0.85rem; color: var(--global-text-color-light); margin-top: 0.4rem; }
