@@ -49,7 +49,7 @@ Note that the first sentence, about the appeal of autopoiesis and complexity the
 
 To support the role of history, the authors quote Bernal saying that the phenomena of biology are contingent on events. But that is a statement about phenomena. Phenomena are not definitions.
 
-> "_life involved another element, logically different from those occurring in physics at that time, by no means a mystical one, but an element of history. The phenomena of biology must be … contingent on events. In consequence, the unity of life is part of the history of life and, consequently, is involved in its origin_" (Bernal, quoted in {% cite tirard2010 -l 1007 %})
+> "_life involved another element, logically different from those occurring in physics at that time, by no means a mystical one, but an element of history. The phenomena of biology must be … contingent on events. In consequence, the unity of life is part of the history of life and, consequently, is involved in its origin_" Bernal, quoted in {% cite tirard2010 -l 1007 %}
 
 I think it is somewhat tautological to define life in terms of Darwinian evolution. Evolution is a theory that describes the trajectories of living things over time, and their diversity. It does not define them. In my view, evolution should _emerge_ from a theoretical definition of life; it should not be part of it. A good definition would describe a kind of physical system, and Darwinian evolution would follow as a consequence whenever such systems can reproduce, vary, and so on.
 
